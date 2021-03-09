@@ -1,3 +1,3 @@
 # se-course-test
 
-hello
+hello world
